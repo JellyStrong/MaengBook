@@ -3,6 +3,7 @@ import 'package:go_router/go_router.dart';
 import 'package:hive/hive.dart';
 import 'package:provider/provider.dart';
 import '../model/deviceInfo.dart';
+import '../provider/deviceInfoProvider.dart';
 import '../model/model.dart';
 import '../util/util.dart';
 import 'util.dart';
@@ -252,6 +253,7 @@ class IconWidget {
         children: [
           InkWell(
             onTap: () {
+
               OverlayEntry? overlayEntry;
               if (!model.getEntries.containsKey(iconName)) {
                 Offset randomOffset = WindowControls().getLayoutRandomOffset(
@@ -347,6 +349,14 @@ class IconWidget {
         children: [
           InkWell(
             onTap: () {
+              print('아이콘 누름');
+              DeviceInfoProvider().getDeviceInfo(context).then((result){
+                print('result:::');
+                print(result);
+
+                print(DeviceInfoProvider().selectDeviceInfo()?.model);
+
+              });
               OverlayEntry? overlayEntry;
               if (!model.getEntries.containsKey(iconName)) {
                 Offset randomOffset = WindowControls().getLayoutRandomOffset(

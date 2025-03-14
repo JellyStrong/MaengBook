@@ -29,7 +29,6 @@ const int maximizeKey = 102;
  *
  * */
 
-
 Model model = Model();
 
 class DeviceInfo {
@@ -63,6 +62,7 @@ class DeviceInfo {
       IosDeviceInfo iosInfo = await deviceInfoPlugin.iosInfo;
       infoo = iosInfo.data;
       info = 'Running on iOS ${iosInfo.systemVersion} on ${iosInfo.utsname.machine}';
+      print(infoo);
     } else if (Theme.of(context).platform == TargetPlatform.fuchsia) {
       WebBrowserInfo fuchsiaInfo = await deviceInfoPlugin.webBrowserInfo;
       infoo = fuchsiaInfo.data;
@@ -77,8 +77,6 @@ class DeviceInfo {
     } else {
       info = 'Unknown Platform';
     }
-    print('deviceInfo: $info');
-    print('deviceInfo type: ${info.runtimeType}');
 
     return infoo;
   }
@@ -103,7 +101,6 @@ class DeviceInfo {
     };
   }
 }
-
 
 class WindowControls with ChangeNotifier {
   // 1. 윈더우 컨트롤 마우스 호버시 메뉴 아이콘 노출
