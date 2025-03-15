@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:hive/hive.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 import 'package:provider/provider.dart';
 import '../model/deviceInfo.dart';
 import '../provider/deviceInfoProvider.dart';
@@ -19,20 +20,6 @@ import 'util.dart';
  * myApp()
  *
  * */
-Model model = Model();
-WindowControls wc = WindowControls();
-var box = Hive.openBox<DeviceInfoData>('deviceInfoBox');
-
-Future<Box<DeviceInfoData>> getDeviceInfo() async {
-  Box<DeviceInfoData> box = await Hive.openBox<DeviceInfoData>('deviceInfoBox');
-
-  print('???? ${box.get('model')}');
-  print('????? ${box.values.toList()}');
-  box.get('model');
-  return box;
-  // 데이터 저장
-  // await box.put('device1', DeviceInfoData(model: ));
-}
 
 class WindowControlsBtn {
   /// window control 버튼 이벤트 관련 (공통)
@@ -106,10 +93,6 @@ class WindowControlsBtn {
 
   /// window control 버튼 그리기 (빨,노,초) (공통)
   Widget buttons(OverlayEntry overlay, String iconName) {
-    print('<>><<');
-    getDeviceInfo().then((result) {
-      print('000000 ${result.get('model')}');
-    });
     return Padding(
       padding: const EdgeInsets.only(top: 8.0, left: 8.0),
       child: SizedBox(
@@ -169,7 +152,6 @@ class WindowControlsBtn {
     );
   }
 }
-
 
 class IconWidget {
   Widget myImage({
@@ -253,7 +235,6 @@ class IconWidget {
         children: [
           InkWell(
             onTap: () {
-
               OverlayEntry? overlayEntry;
               if (!model.getEntries.containsKey(iconName)) {
                 Offset randomOffset = WindowControls().getLayoutRandomOffset(
@@ -350,13 +331,9 @@ class IconWidget {
           InkWell(
             onTap: () {
               print('아이콘 누름');
-              DeviceInfoProvider().getDeviceInfo(context).then((result){
-                print('result:::');
-                print(result);
-
-                print(DeviceInfoProvider().selectDeviceInfo()?.model);
-
-              });
+              DeviceInfoData? aa =  DeviceInfoProvider().selectDeviceInfo();
+              print('aa :${aa}');
+              print('aa model : ${aa?.model}');
               OverlayEntry? overlayEntry;
               if (!model.getEntries.containsKey(iconName)) {
                 Offset randomOffset = WindowControls().getLayoutRandomOffset(

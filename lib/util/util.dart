@@ -47,40 +47,6 @@ class DeviceInfo {
     return MediaQuery.of(context).size;
   }
 
-  Future<Map<String, dynamic>> getDeviceInfo(BuildContext context) async {
-    final DeviceInfoPlugin deviceInfoPlugin = DeviceInfoPlugin();
-    String info = '';
-    Map<String, dynamic> infoo = {};
-    print(Theme.of(context).platform);
-    if (Theme.of(context).platform == TargetPlatform.android) {
-      // Android 디바이스 정보 가져오기
-      AndroidDeviceInfo androidInfo = await deviceInfoPlugin.androidInfo;
-      infoo = androidInfo.data;
-      info = 'Running on ${androidInfo.model} with Android ${androidInfo.version.sdkInt}';
-    } else if (Theme.of(context).platform == TargetPlatform.iOS) {
-      // iOS 디바이스 정보 가져오기
-      IosDeviceInfo iosInfo = await deviceInfoPlugin.iosInfo;
-      infoo = iosInfo.data;
-      info = 'Running on iOS ${iosInfo.systemVersion} on ${iosInfo.utsname.machine}';
-      print(infoo);
-    } else if (Theme.of(context).platform == TargetPlatform.fuchsia) {
-      WebBrowserInfo fuchsiaInfo = await deviceInfoPlugin.webBrowserInfo;
-      infoo = fuchsiaInfo.data;
-      info = 'Web: ${fuchsiaInfo.browserName}';
-    } else if (Theme.of(context).platform == TargetPlatform.macOS) {
-      WebBrowserInfo macOsInfo = await deviceInfoPlugin.webBrowserInfo;
-      info = 'macOs: ${macOsInfo.data}';
-      infoo = macOsInfo.data;
-    } else if (Theme.of(context).platform == TargetPlatform.windows) {
-      WebBrowserInfo webInfo = await deviceInfoPlugin.webBrowserInfo;
-      info = 'Web: ${webInfo.browserName}';
-    } else {
-      info = 'Unknown Platform';
-    }
-
-    return infoo;
-  }
-
   /// 플랫폼 상태 데이터
   Future<void> initPlatformState() async {
     final deviceInfoPlugin = DeviceInfoPlugin();

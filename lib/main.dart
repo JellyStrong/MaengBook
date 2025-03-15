@@ -10,18 +10,13 @@ import 'view/macWallPaperView.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  // await DeviceInfoProvider().openBox();
   await Hive.initFlutter();
+  await Hive.openBox('testSet');
   Hive.registerAdapter(DeviceInfoDataAdapter()); // 어댑터 등록
+
+  print('${Hive.isBoxOpen('deviceInfoBox')}');
   runApp(const RunApp());
-}
-
-void saveDeviceInfoData(BuildContext context) async {
-  DeviceInfo().getDeviceInfo(context).then((result) async {
-    var box = await Hive.openBox<DeviceInfoData>('deviceInfoBox');
-    DeviceInfoData deviceInfoData = DeviceInfoData(model: result['model']);
-
-    await box.put('deviceInfoBox', deviceInfoData);
-  });
 }
 
 class RunApp extends StatefulWidget {
@@ -37,13 +32,18 @@ class _RuntAppState extends State<RunApp> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    DeviceInfoProvider().deviceInfo(context);
+    print('initState');
+    DeviceInfoProvider().openBox().then((result) {
+      print('init openBox : ${result}');
+      if (result) {
+        DeviceInfoProvider().deviceInfo(context);
+      }
+    });
   }
 
   @override
   void dispose() {
     // TODO: implement dispose
-    // widget.box.clear();
     super.dispose();
     DeviceInfoProvider().disposeBox();
   }

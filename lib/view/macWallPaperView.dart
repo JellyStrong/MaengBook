@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:hive/hive.dart';
 import 'package:siiimple/util/util.dart';
 import 'package:siiimple/util/commonWidget.dart';
 import 'calculatorView.dart';
-import 'imageView.dart';
-import 'previewView.dart';
 
 class MacWallPaperView extends StatelessWidget {
   const MacWallPaperView({super.key});

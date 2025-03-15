@@ -1,6 +1,7 @@
 import 'package:device_info_plus/device_info_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 import 'package:siiimple/model/deviceInfo.dart';
 
 class DeviceInfoProvider {
@@ -33,6 +34,7 @@ class DeviceInfoProvider {
     else if (Theme.of(context).platform == TargetPlatform.macOS) {
       WebBrowserInfo macOsInfo = await deviceInfoPlugin.webBrowserInfo;
       info = macOsInfo.data;
+      print('window ${info}');
       // macOsInfo.appName;
     }
 
@@ -40,6 +42,7 @@ class DeviceInfoProvider {
     else if (Theme.of(context).platform == TargetPlatform.windows) {
       WebBrowserInfo webInfo = await deviceInfoPlugin.webBrowserInfo;
       info = webInfo.data;
+      print('window ${info}');
     } else {
       info = {
         'error': 'Unknown Model',
@@ -49,29 +52,45 @@ class DeviceInfoProvider {
   }
 
   /// Hive Box open 열기
-  Future<void> openBox() async {
-    deviceInfoBox = await Hive.openBox<DeviceInfoData>('deviceInfoBox');
+  Future<bool> openBox() async {
+    if (!Hive.isBoxOpen('deviceInfoBox')) {
+      await Hive.openBox<DeviceInfoData>('deviceInfoBox');
+    } else {
+      return false;
+    }
+    return true;
   }
 
   /// DeviceInfoData 저장
-  void deviceInfo(BuildContext context) {
-    openBox();
-    getDeviceInfo(context).then((result) async {
-      var box = await Hive.openBox<DeviceInfoData>('deviceInfoBox');
-      DeviceInfoData deviceInfoData = DeviceInfoData(model: result['model']);
+  Future<void> deviceInfo(BuildContext context) async {
+    deviceInfoBox = Hive.box('deviceInfoBox');
 
-      await box.put('deviceInfoBox', deviceInfoData);
+    await getDeviceInfo(context).then((result) {
+      print(result);
+      DeviceInfoData deviceInfoData =  DeviceInfoData(
+        model: result['model'] ?? '',
+        modelName: result['modelName'] ?? '',
+        localizedModel: result['localizedModel'] ?? '',
+      );
+      deviceInfoBox.put('deviceInfoBox', deviceInfoData);
     });
   }
 
   /// DeviceInfoData 정보 조회
   DeviceInfoData? selectDeviceInfo() {
-    openBox();
+    deviceInfoBox = Hive.box('deviceInfoBox');
+    print('deviceInfoBox :${deviceInfoBox.get('deviceInfoBox')}');
+
     return deviceInfoBox.get('deviceInfoBox'); // deviceInfoBox 조회
   }
 
-  ///
-  void disposeBox(){
+  /// dispose
+  void disposeBox() {
+    deviceInfoBox.close();
+  }
+
+  /// delete
+  void closeBox() {
     deviceInfoBox.clear();
   }
 }
