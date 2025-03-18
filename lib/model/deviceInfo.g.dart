@@ -20,19 +20,22 @@ class DeviceInfoDataAdapter extends TypeAdapter<DeviceInfoData> {
       model: fields[0] as String?,
       modelName: fields[1] as String?,
       localizedModel: fields[2] as String?,
+      platform: fields[3] as String?,
     );
   }
 
   @override
   void write(BinaryWriter writer, DeviceInfoData obj) {
     writer
-      ..writeByte(3)
+      ..writeByte(4)
       ..writeByte(0)
       ..write(obj.model)
       ..writeByte(1)
       ..write(obj.modelName)
       ..writeByte(2)
-      ..write(obj.localizedModel);
+      ..write(obj.localizedModel)
+      ..writeByte(3)
+      ..write(obj.platform);
   }
 
   @override

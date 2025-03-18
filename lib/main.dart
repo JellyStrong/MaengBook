@@ -10,17 +10,13 @@ import 'view/macWallPaperView.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  // await DeviceInfoProvider().openBox();
   await Hive.initFlutter();
-  await Hive.openBox('testSet');
   Hive.registerAdapter(DeviceInfoDataAdapter()); // 어댑터 등록
 
-  print('${Hive.isBoxOpen('deviceInfoBox')}');
   runApp(const RunApp());
 }
 
 class RunApp extends StatefulWidget {
-  /// RunApp({super.key, required this.box});
   const RunApp({super.key});
 
   @override
@@ -35,7 +31,7 @@ class _RuntAppState extends State<RunApp> {
     print('initState');
     DeviceInfoProvider().openBox().then((result) {
       print('init openBox : ${result}');
-      if (result) {
+      if (result && mounted) {
         DeviceInfoProvider().deviceInfo(context);
       }
     });

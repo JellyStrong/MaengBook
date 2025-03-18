@@ -16,33 +16,41 @@ class DeviceInfoProvider {
     if (Theme.of(context).platform == TargetPlatform.android) {
       AndroidDeviceInfo androidInfo = await deviceInfoPlugin.androidInfo;
       info = androidInfo.data;
+      info['platform'] = 'android';
+      print('>>>>>> ${info}');
     }
 
     /// iOS
     else if (Theme.of(context).platform == TargetPlatform.iOS) {
       IosDeviceInfo iosInfo = await deviceInfoPlugin.iosInfo;
+
       info = iosInfo.data;
+      info['platform'] = 'ios';
+      print('>>>>>> ${info}');
     }
 
     /// fuchsia
     else if (Theme.of(context).platform == TargetPlatform.fuchsia) {
       WebBrowserInfo fuchsiaInfo = await deviceInfoPlugin.webBrowserInfo;
       info = fuchsiaInfo.data;
+      info['platform'] = 'window';
+      print('>>>>>> ${info}');
     }
 
-    /// macOS
+    /// macIntel
     else if (Theme.of(context).platform == TargetPlatform.macOS) {
-      WebBrowserInfo macOsInfo = await deviceInfoPlugin.webBrowserInfo;
-      info = macOsInfo.data;
-      print('window ${info}');
-      // macOsInfo.appName;
+      WebBrowserInfo macIntel = await deviceInfoPlugin.webBrowserInfo;
+      info = macIntel.data;
+      info['platform'] = 'maxIntel';
+      print('maxIntel ${info}');
     }
 
     /// window
     else if (Theme.of(context).platform == TargetPlatform.windows) {
       WebBrowserInfo webInfo = await deviceInfoPlugin.webBrowserInfo;
       info = webInfo.data;
-      print('window ${info}');
+      info['platform'] = 'window';
+      print('>>>>>> ${info}');
     } else {
       info = {
         'error': 'Unknown Model',
@@ -67,12 +75,17 @@ class DeviceInfoProvider {
 
     await getDeviceInfo(context).then((result) {
       print(result);
-      DeviceInfoData deviceInfoData =  DeviceInfoData(
+      DeviceInfoData deviceInfoData = DeviceInfoData(
         model: result['model'] ?? '',
         modelName: result['modelName'] ?? '',
         localizedModel: result['localizedModel'] ?? '',
+        platform: result['platform'] ?? '',
       );
       deviceInfoBox.put('deviceInfoBox', deviceInfoData);
+
+      DeviceInfoData? aaa = selectDeviceInfo();
+      print('>>>>>> ${aaa?.platform}');
+      print('>>>>>>${aaa?.toJson()}');
     });
   }
 
@@ -90,7 +103,7 @@ class DeviceInfoProvider {
   }
 
   /// delete
-  void closeBox() {
+  void deleteBox() {
     deviceInfoBox.clear();
   }
 }
