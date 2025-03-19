@@ -12,3 +12,4 @@ plugins {
 
 rootProject.name = "maengBook"
 include("app")
+include(":maengbook_module")
