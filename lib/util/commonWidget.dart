@@ -6,6 +6,7 @@ import 'package:provider/provider.dart';
 import '../model/deviceInfo.dart';
 import '../provider/deviceInfoProvider.dart';
 import '../model/model.dart';
+import '../provider/macWallPaperViewProvider.dart';
 import '../util/util.dart';
 import 'util.dart';
 
@@ -330,10 +331,8 @@ class IconWidget {
         children: [
           InkWell(
             onTap: () {
-              print('아이콘 누름');
+              MacWallPaperViewProvider().byPlatform();
               DeviceInfoData? aa =  DeviceInfoProvider().selectDeviceInfo();
-              print('aa :${aa}');
-              print('aa model : ${aa?.model}');
               OverlayEntry? overlayEntry;
               if (!model.getEntries.containsKey(iconName)) {
                 Offset randomOffset = WindowControls().getLayoutRandomOffset(

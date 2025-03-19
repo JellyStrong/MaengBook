@@ -2,7 +2,7 @@ import 'package:device_info_plus/device_info_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:siiimple/model/deviceInfo.dart';
+import 'package:maengBook/model/deviceInfo.dart';
 
 class DeviceInfoProvider {
   late Box<DeviceInfoData> deviceInfoBox; //device info Box //box name 과 keys name 동일
@@ -69,6 +69,18 @@ class DeviceInfoProvider {
     return true;
   }
 
+  /// DeviceInfoData 정보 조회
+  DeviceInfoData? selectDeviceInfo() {
+    openBox().then((result) {
+      if (result) {
+        deviceInfoBox = Hive.box('deviceInfoBox');
+        print('deviceInfoBox :${deviceInfoBox.get('deviceInfoBox')}');
+
+        return deviceInfoBox.get('deviceInfoBox'); // deviceInfoBox 조회
+      }
+    });
+  }
+
   /// DeviceInfoData 저장
   Future<void> deviceInfo(BuildContext context) async {
     deviceInfoBox = Hive.box('deviceInfoBox');
@@ -84,17 +96,7 @@ class DeviceInfoProvider {
       deviceInfoBox.put('deviceInfoBox', deviceInfoData);
 
       DeviceInfoData? aaa = selectDeviceInfo();
-      print('>>>>>> ${aaa?.platform}');
-      print('>>>>>>${aaa?.toJson()}');
     });
-  }
-
-  /// DeviceInfoData 정보 조회
-  DeviceInfoData? selectDeviceInfo() {
-    deviceInfoBox = Hive.box('deviceInfoBox');
-    print('deviceInfoBox :${deviceInfoBox.get('deviceInfoBox')}');
-
-    return deviceInfoBox.get('deviceInfoBox'); // deviceInfoBox 조회
   }
 
   /// dispose

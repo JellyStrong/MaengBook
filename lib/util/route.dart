@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:siiimple/view/calculatorView.dart';
-import 'package:siiimple/view/macWallPaperView.dart';
+import 'package:maengBook/view/calculatorView.dart';
+import 'package:maengBook/view/macWallPaperView.dart';
 
 /// 현재 사용 안함
 

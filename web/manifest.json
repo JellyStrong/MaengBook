@@ -1,6 +1,6 @@
 {
-    "name": "siiimple",
-    "short_name": "siiimple",
+    "name": "maengBook",
+    "short_name": "maengBook",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

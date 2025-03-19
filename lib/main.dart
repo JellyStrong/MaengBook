@@ -2,9 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:provider/provider.dart';
-import 'package:siiimple/provider/deviceInfoProvider.dart';
+import 'package:maengBook/provider/deviceInfoProvider.dart';
 import 'model/deviceInfo.dart';
 import 'provider/calculatorViewProvider.dart';
+import 'provider/macWallPaperViewProvider.dart';
 import 'util/util.dart';
 import 'view/macWallPaperView.dart';
 
@@ -30,7 +31,6 @@ class _RuntAppState extends State<RunApp> {
     super.initState();
     print('initState');
     DeviceInfoProvider().openBox().then((result) {
-      print('init openBox : ${result}');
       if (result && mounted) {
         DeviceInfoProvider().deviceInfo(context);
       }
@@ -47,8 +47,8 @@ class _RuntAppState extends State<RunApp> {
   @override
   Widget build(BuildContext context) {
     SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: []); // 상태바 숨기기
-    // 상태바 보이기
-    // SystemChrome.setEnabledSystemUIOverlays(SystemUiOverlay.values);
+
+    // SystemChrome.setEnabledSystemUIOverlays(SystemUiOverlay.values); // 상태바 보이기
 
     return MultiProvider(
       providers: [
@@ -59,6 +59,9 @@ class _RuntAppState extends State<RunApp> {
           create: (BuildContext context) => WindowControls(),
         ),
         // ChangeNotifierProvider(create: (BuildContext context)=> ),
+        ChangeNotifierProvider(
+          create: (BuildContext context) => MacWallPaperViewProvider(),
+        ),
       ],
       child: const MaterialApp(
         // initialRoute: '/',

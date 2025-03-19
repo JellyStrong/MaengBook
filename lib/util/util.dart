@@ -4,7 +4,7 @@ import 'package:device_info_plus/device_info_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:provider/provider.dart';
-import 'package:siiimple/provider/calculatorViewProvider.dart';
+import 'package:maengBook/provider/calculatorViewProvider.dart';
 import 'dart:math';
 import '../model/model.dart';
 

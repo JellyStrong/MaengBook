@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-import 'package:siiimple/util/util.dart';
-import 'package:siiimple/util/commonWidget.dart';
+import 'package:provider/provider.dart';
+import 'package:maengBook/provider/macWallPaperViewProvider.dart';
+import 'package:maengBook/util/util.dart';
+import 'package:maengBook/util/commonWidget.dart';
 import 'calculatorView.dart';
 
 class MacWallPaperView extends StatelessWidget {
@@ -27,27 +29,31 @@ class MacWallPaperView extends StatelessWidget {
                 top: 40,
                 child: Row(
                   children: [
-                    Column(
-                      children: [
-                        IconWidget().myApp(
-                          context: context,
-                          child: calculatorView(context),
-                          iconName: '계산기',
-                          iconPath: 'assets/image/icon/calculator.png',
-                          maxWidth: 233,
-                          maxHeight: 323,
-                          backGround: Colors.blue,
-                        ),
-                        // IconWidget().myPicture(
-                        //   context: context,
-                        //   child: imageView('assets/image/icon/test02.png'),
-                        //   iconName: '이미지 테스트',
-                        //   iconPath: 'assets/image/icon/test02.png',
-                        //   maxWidth: 200,
-                        //   maxHeight: 200,
-                        //   backGround: Colors.blue,
-                        // ),
-                      ],
+                    Consumer<MacWallPaperViewProvider>(
+                      builder: (BuildContext context, MacWallPaperViewProvider provider, Widget? child) {
+                        return Column(
+                          children: [
+                            IconWidget().myApp(
+                              context: context,
+                              child: calculatorView(context),
+                              iconName: '계산기',
+                              iconPath: 'assets/image/icon/calculator.png',
+                              maxWidth: 233,
+                              maxHeight: 323,
+                              backGround: Colors.blue,
+                            ),
+                            // IconWidget().myPicture(
+                            //   context: context,
+                            //   child: imageView('assets/image/icon/test02.png'),
+                            //   iconName: '이미지 테스트',
+                            //   iconPath: 'assets/image/icon/test02.png',
+                            //   maxWidth: 200,
+                            //   maxHeight: 200,
+                            //   backGround: Colors.blue,
+                            // ),
+                          ],
+                        );
+                      },
                     ),
                   ],
                 ),
