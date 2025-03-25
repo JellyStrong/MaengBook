@@ -17,24 +17,27 @@ class DeviceInfoDataAdapter extends TypeAdapter<DeviceInfoData> {
       for (int i = 0; i < numOfFields; i++) reader.readByte(): reader.read(),
     };
     return DeviceInfoData(
-      model: fields[0] as String?,
-      modelName: fields[1] as String?,
-      localizedModel: fields[2] as String?,
-      platform: fields[3] as String?,
+      type: fields[0] as String?,
+      model: fields[1] as String?,
+      modelName: fields[2] as String?,
+      localizedModel: fields[3] as String?,
+      platform: fields[4] as String?,
     );
   }
 
   @override
   void write(BinaryWriter writer, DeviceInfoData obj) {
     writer
-      ..writeByte(4)
+      ..writeByte(5)
       ..writeByte(0)
-      ..write(obj.model)
+      ..write(obj.type)
       ..writeByte(1)
-      ..write(obj.modelName)
+      ..write(obj.model)
       ..writeByte(2)
-      ..write(obj.localizedModel)
+      ..write(obj.modelName)
       ..writeByte(3)
+      ..write(obj.localizedModel)
+      ..writeByte(4)
       ..write(obj.platform);
   }
 

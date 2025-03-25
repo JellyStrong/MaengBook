@@ -2,13 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:maengBook/model/deviceInfo.dart';
 import 'package:maengBook/provider/deviceInfoProvider.dart';
 
-class MacWallPaperViewProvider with ChangeNotifier{
-DeviceInfoData? deviceInfoData =  DeviceInfoProvider().selectDeviceInfo();
+class MacWallPaperViewProvider with ChangeNotifier {
+  Map<String, dynamic> platform = {};
 
-  void byPlatform(){
-    print('>>>>>> ${deviceInfoData?.toJson()}');
-    notifyListeners();
+  void getPlatform() {
+    DeviceInfoProvider().selectDeviceInfo().then((result) {
+      print(result);
+      platform = result!;
+      notifyListeners();
+    });
   }
 }
-/// 1. platform 에 따른 화면 비율
-/// 2.

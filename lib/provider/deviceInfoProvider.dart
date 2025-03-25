@@ -5,97 +5,84 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:maengBook/model/deviceInfo.dart';
 
 class DeviceInfoProvider {
-  late Box<DeviceInfoData> deviceInfoBox; //device info Box //box name 과 keys name 동일
+  Box<DeviceInfoData> deviceInfoBox = Hive.box('deviceInfoBox');
+  late DeviceInfoData deviceInfoData = DeviceInfoData();
 
   /// 디바이스 정보 불러오기
   Future<Map<String, dynamic>> getDeviceInfo(BuildContext context) async {
     final DeviceInfoPlugin deviceInfoPlugin = DeviceInfoPlugin();
-    Map<String, dynamic> info = {};
+    Map<String, dynamic> result = {};
 
     /// Android
     if (Theme.of(context).platform == TargetPlatform.android) {
       AndroidDeviceInfo androidInfo = await deviceInfoPlugin.androidInfo;
-      info = androidInfo.data;
-      info['platform'] = 'android';
-      print('>>>>>> ${info}');
+      result = androidInfo.data;
+      result.addAll({
+        'type': 'android',
+        'platform': 'android',
+      });
     }
 
     /// iOS
     else if (Theme.of(context).platform == TargetPlatform.iOS) {
       IosDeviceInfo iosInfo = await deviceInfoPlugin.iosInfo;
-
-      info = iosInfo.data;
-      info['platform'] = 'ios';
-      print('>>>>>> ${info}');
+      result = iosInfo.data;
+      result.addAll({
+        'type': 'macIntel',
+        'platform': 'ios',
+      });
     }
 
     /// fuchsia
     else if (Theme.of(context).platform == TargetPlatform.fuchsia) {
       WebBrowserInfo fuchsiaInfo = await deviceInfoPlugin.webBrowserInfo;
-      info = fuchsiaInfo.data;
-      info['platform'] = 'window';
-      print('>>>>>> ${info}');
+      result = fuchsiaInfo.data;
+      result.addAll({
+        'type': 'fuchsia',
+        'platform': 'web',
+      });
     }
 
     /// macIntel
     else if (Theme.of(context).platform == TargetPlatform.macOS) {
       WebBrowserInfo macIntel = await deviceInfoPlugin.webBrowserInfo;
-      info = macIntel.data;
-      info['platform'] = 'maxIntel';
-      print('maxIntel ${info}');
+      result = macIntel.data;
+      result.addAll({
+        'type': 'macIntel',
+        'platform': 'web',
+      });
     }
 
     /// window
     else if (Theme.of(context).platform == TargetPlatform.windows) {
       WebBrowserInfo webInfo = await deviceInfoPlugin.webBrowserInfo;
-      info = webInfo.data;
-      info['platform'] = 'window';
-      print('>>>>>> ${info}');
+      result = webInfo.data;
+      result.addAll({
+        'type': 'windows',
+        'platform': 'web',
+      });
     } else {
-      info = {
-        'error': 'Unknown Model',
-      };
+      print('getDeviceInfo() error!!!');
     }
-    return info;
+    print('getDeviceInfo() result : $result');
+    return result;
   }
 
-  /// Hive Box open 열기
-  Future<bool> openBox() async {
-    if (!Hive.isBoxOpen('deviceInfoBox')) {
-      await Hive.openBox<DeviceInfoData>('deviceInfoBox');
-    } else {
-      return false;
-    }
-    return true;
-  }
-
-  /// DeviceInfoData 정보 조회
-  DeviceInfoData? selectDeviceInfo() {
-    openBox().then((result) {
-      if (result) {
-        deviceInfoBox = Hive.box('deviceInfoBox');
-        print('deviceInfoBox :${deviceInfoBox.get('deviceInfoBox')}');
-
-        return deviceInfoBox.get('deviceInfoBox'); // deviceInfoBox 조회
-      }
-    });
+  /// 디바이스 정보 조회
+  Future<Map<String, dynamic>?> selectDeviceInfo() async {
+    return deviceInfoBox.get('deviceInfoBox')?.toJson();
   }
 
   /// DeviceInfoData 저장
-  Future<void> deviceInfo(BuildContext context) async {
-    deviceInfoBox = Hive.box('deviceInfoBox');
-
+  Future<void> insertDeviceInfo(BuildContext context) async {
     await getDeviceInfo(context).then((result) {
-      print(result);
-      DeviceInfoData deviceInfoData = DeviceInfoData(
-        model: result['model'] ?? '',
-        modelName: result['modelName'] ?? '',
-        localizedModel: result['localizedModel'] ?? '',
-        platform: result['platform'] ?? '',
+      deviceInfoData = DeviceInfoData(
+        model: result['model'],
+        modelName: result['modelName'],
+        localizedModel: result['localizedModel'],
+        platform: result['platform'],
       );
       deviceInfoBox.put('deviceInfoBox', deviceInfoData);
-
-      DeviceInfoData? aaa = selectDeviceInfo();
     });
   }
 

@@ -331,8 +331,6 @@ class IconWidget {
         children: [
           InkWell(
             onTap: () {
-              MacWallPaperViewProvider().byPlatform();
-              DeviceInfoData? aa =  DeviceInfoProvider().selectDeviceInfo();
               OverlayEntry? overlayEntry;
               if (!model.getEntries.containsKey(iconName)) {
                 Offset randomOffset = WindowControls().getLayoutRandomOffset(

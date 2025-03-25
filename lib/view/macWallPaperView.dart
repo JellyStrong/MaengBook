@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:hive/hive.dart';
 import 'package:provider/provider.dart';
 import 'package:maengBook/provider/macWallPaperViewProvider.dart';
 import 'package:maengBook/util/util.dart';
@@ -11,6 +10,7 @@ class MacWallPaperView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    context.read<MacWallPaperViewProvider>().getPlatform();
     return Material(
       child: Container(
         decoration: const BoxDecoration(
@@ -24,6 +24,7 @@ class MacWallPaperView extends StatelessWidget {
         child: SafeArea(
           child: Stack(
             children: [
+              /// 상단 상태바
               Container(color: Colors.grey[700], width: DeviceInfo().getWidth(context), height: 40),
               Positioned(
                 top: 40,
@@ -41,6 +42,13 @@ class MacWallPaperView extends StatelessWidget {
                               maxWidth: 233,
                               maxHeight: 323,
                               backGround: Colors.blue,
+                            ),
+                            InkWell(
+                              child: Text('test'),
+                              onTap: () {
+                                print('onTap');
+                                print('provider.platform : ${provider.platform}');
+                              },
                             ),
                             // IconWidget().myPicture(
                             //   context: context,

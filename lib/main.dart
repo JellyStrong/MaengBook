@@ -14,6 +14,10 @@ void main() async {
   await Hive.initFlutter();
   Hive.registerAdapter(DeviceInfoDataAdapter()); // 어댑터 등록
 
+  if (Hive.isBoxOpen('deviceInfoBox') == false) {
+    await Hive.openBox<DeviceInfoData>('deviceInfoBox');
+  }
+
   runApp(const RunApp());
 }
 
@@ -30,11 +34,7 @@ class _RuntAppState extends State<RunApp> {
     // TODO: implement initState
     super.initState();
     print('initState');
-    DeviceInfoProvider().openBox().then((result) {
-      if (result && mounted) {
-        DeviceInfoProvider().deviceInfo(context);
-      }
-    });
+    DeviceInfoProvider().insertDeviceInfo(context);
   }
 
   @override
@@ -58,7 +58,6 @@ class _RuntAppState extends State<RunApp> {
         ChangeNotifierProvider(
           create: (BuildContext context) => WindowControls(),
         ),
-        // ChangeNotifierProvider(create: (BuildContext context)=> ),
         ChangeNotifierProvider(
           create: (BuildContext context) => MacWallPaperViewProvider(),
         ),

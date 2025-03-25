@@ -1,5 +1,3 @@
-// import 'dart:ui';
-
 import 'package:device_info_plus/device_info_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
@@ -201,3 +199,9 @@ class StateManage with ChangeNotifier {
     // super.dispose();
   }
 }
+
+// class HiveUse {
+//   Box<DeviceInfoData> deviceInfoBox = Hive.box('deviceInfoBox');
+//
+//   Future<Map<String, dynamic>>
+// }
