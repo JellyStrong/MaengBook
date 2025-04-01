@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-Widget weatherDiaryView() {
+Widget weatherNewsView() {
   TextEditingController memoController;
   final _formKey = GlobalKey<FormState>();
   final TextEditingController _controller1 = TextEditingController();

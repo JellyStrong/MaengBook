@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:http/http.dart' as http;
 
-class WeatherDiaryProvider with ChangeNotifier {
+class WeatherNewsProvider with ChangeNotifier {
   final String _API_KEY = dotenv.env['API_KEY'] ?? 'default_api_key';
   final uri = 'http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?';
 

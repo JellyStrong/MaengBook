@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class WeatherDairyModel {
+class WeatherNewsModel {
   final String? baseDate;
   final String? category;
   final int? nx;
@@ -8,7 +8,7 @@ class WeatherDairyModel {
   final String? obsrValue;
 
   /// 생성자
-  WeatherDairyModel({
+  WeatherNewsModel({
     this.baseDate,
     this.category,
     this.nx,

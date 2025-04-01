@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:maengBook/view/weatherDiaryView.dart';
+import 'package:maengBook/view/weatherNewsView.dart';
 import 'package:provider/provider.dart';
 import 'package:maengBook/provider/macWallPaperProvider.dart';
 import 'package:maengBook/util/util.dart';
@@ -47,7 +47,7 @@ class MacWallPaperView extends StatelessWidget {
 
                             IconWidget().myApp(
                               context: context,
-                              child: weatherDiaryView(),
+                              child: weatherNewsView(),
                               iconPath: 'assets/image/icon/weatherDiary.jpeg',
                               iconName: '날씨 일기',
                               maxWidth: 600,

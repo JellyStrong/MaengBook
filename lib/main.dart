@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:maengBook/provider/weatherDiaryProvider.dart';
+import 'package:maengBook/provider/weatherNewsProvider.dart';
 import 'package:provider/provider.dart';
 import 'package:maengBook/provider/deviceInfoProvider.dart';
 import 'model/deviceInfo.dart';
@@ -21,8 +21,8 @@ void main() async {
   if (Hive.isBoxOpen('deviceInfoBox') == false) {
     await Hive.openBox<DeviceInfoData>('deviceInfoBox');
   }
-  print('---------00');
-  await WeatherDiaryProvider().fetchData();
+  /// 날씨
+  WeatherNewsProvider().fetchData();
   runApp(const RunApp());
 }
 
