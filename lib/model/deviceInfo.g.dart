@@ -17,11 +17,11 @@ class DeviceInfoDataAdapter extends TypeAdapter<DeviceInfoData> {
       for (int i = 0; i < numOfFields; i++) reader.readByte(): reader.read(),
     };
     return DeviceInfoData(
-      type: fields[0] as String?,
-      model: fields[1] as String?,
-      modelName: fields[2] as String?,
-      localizedModel: fields[3] as String?,
-      platform: fields[4] as String?,
+      device: fields[0] as String?,
+      OS: fields[1] as String?,
+      model: fields[2] as String?,
+      modelName: fields[3] as String?,
+      localizedModel: fields[4] as String?,
     );
   }
 
@@ -30,15 +30,15 @@ class DeviceInfoDataAdapter extends TypeAdapter<DeviceInfoData> {
     writer
       ..writeByte(5)
       ..writeByte(0)
-      ..write(obj.type)
+      ..write(obj.device)
       ..writeByte(1)
-      ..write(obj.model)
+      ..write(obj.OS)
       ..writeByte(2)
-      ..write(obj.modelName)
+      ..write(obj.model)
       ..writeByte(3)
-      ..write(obj.localizedModel)
+      ..write(obj.modelName)
       ..writeByte(4)
-      ..write(obj.platform);
+      ..write(obj.localizedModel);
   }
 
   @override

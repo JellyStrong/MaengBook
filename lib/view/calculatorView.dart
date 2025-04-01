@@ -5,7 +5,7 @@ import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 import 'package:maengBook/util/regExp.dart';
 
-import '../provider/calculatorViewProvider.dart';
+import '../provider/calculatorProvider.dart';
 
 Widget btnPad(Key btnKey, Color btnColor, String str, BuildContext context) {
   return GestureDetector(

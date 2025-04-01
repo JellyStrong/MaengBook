@@ -1,23 +1,28 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:hive_flutter/hive_flutter.dart';
+import 'package:maengBook/provider/weatherDiaryProvider.dart';
 import 'package:provider/provider.dart';
 import 'package:maengBook/provider/deviceInfoProvider.dart';
 import 'model/deviceInfo.dart';
-import 'provider/calculatorViewProvider.dart';
-import 'provider/macWallPaperViewProvider.dart';
+import 'provider/calculatorProvider.dart';
+import 'provider/macWallPaperProvider.dart';
 import 'util/util.dart';
 import 'view/macWallPaperView.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await dotenv.load(fileName: '.env');
   await Hive.initFlutter();
   Hive.registerAdapter(DeviceInfoDataAdapter()); // 어댑터 등록
 
   if (Hive.isBoxOpen('deviceInfoBox') == false) {
     await Hive.openBox<DeviceInfoData>('deviceInfoBox');
   }
-
+  print('---------00');
+  await WeatherDiaryProvider().fetchData();
   runApp(const RunApp());
 }
 
@@ -34,7 +39,11 @@ class _RuntAppState extends State<RunApp> {
     // TODO: implement initState
     super.initState();
     print('initState');
+
     DeviceInfoProvider().insertDeviceInfo(context);
+    test('날씨 테스트', () {
+      print('ㅈ테스트중');
+    });
   }
 
   @override

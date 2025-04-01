@@ -18,8 +18,8 @@ class DeviceInfoProvider {
       AndroidDeviceInfo androidInfo = await deviceInfoPlugin.androidInfo;
       result = androidInfo.data;
       result.addAll({
-        'type': 'android',
-        'platform': 'android',
+        'device': 'android',
+        'OS': 'android',
       });
     }
 
@@ -28,8 +28,8 @@ class DeviceInfoProvider {
       IosDeviceInfo iosInfo = await deviceInfoPlugin.iosInfo;
       result = iosInfo.data;
       result.addAll({
-        'type': 'macIntel',
-        'platform': 'ios',
+        'device': 'macIntel',
+        'OS': 'ios',
       });
     }
 
@@ -38,8 +38,8 @@ class DeviceInfoProvider {
       WebBrowserInfo fuchsiaInfo = await deviceInfoPlugin.webBrowserInfo;
       result = fuchsiaInfo.data;
       result.addAll({
-        'type': 'fuchsia',
-        'platform': 'web',
+        'device': 'fuchsia',
+        'OS': 'web',
       });
     }
 
@@ -48,8 +48,8 @@ class DeviceInfoProvider {
       WebBrowserInfo macIntel = await deviceInfoPlugin.webBrowserInfo;
       result = macIntel.data;
       result.addAll({
-        'type': 'macIntel',
-        'platform': 'web',
+        'device': 'macIntel',
+        'OS': 'web',
       });
     }
 
@@ -58,8 +58,8 @@ class DeviceInfoProvider {
       WebBrowserInfo webInfo = await deviceInfoPlugin.webBrowserInfo;
       result = webInfo.data;
       result.addAll({
-        'type': 'windows',
-        'platform': 'web',
+        'device': 'windows',
+        'OS': 'web',
       });
     } else {
       print('getDeviceInfo() error!!!');
@@ -68,22 +68,24 @@ class DeviceInfoProvider {
     return result;
   }
 
-  /// 디바이스 정보 조회
-  Future<Map<String, dynamic>?> selectDeviceInfo() async {
-    return deviceInfoBox.get('deviceInfoBox')?.toJson();
-  }
-
   /// DeviceInfoData 저장
   Future<void> insertDeviceInfo(BuildContext context) async {
     await getDeviceInfo(context).then((result) {
       deviceInfoData = DeviceInfoData(
+        device: result['device'],
+        OS: result['OS'],
         model: result['model'],
         modelName: result['modelName'],
         localizedModel: result['localizedModel'],
-        platform: result['platform'],
+
       );
       deviceInfoBox.put('deviceInfoBox', deviceInfoData);
     });
+  }
+
+  /// 디바이스 정보 조회
+  Future<Map<String, dynamic>?> selectDeviceInfo() async {
+    return deviceInfoBox.get('deviceInfoBox')?.toJson();
   }
 
   /// dispose

@@ -6,7 +6,7 @@ import 'package:provider/provider.dart';
 import '../model/deviceInfo.dart';
 import '../provider/deviceInfoProvider.dart';
 import '../model/model.dart';
-import '../provider/macWallPaperViewProvider.dart';
+import '../provider/macWallPaperProvider.dart';
 import '../util/util.dart';
 import 'util.dart';
 

@@ -5,44 +5,44 @@ part 'deviceInfo.g.dart';
 @HiveType(typeId: 1)
 class DeviceInfoData {
   @HiveField(0)
-  final String? type;
+  final String? device;
   @HiveField(1)
-  final String? model;
+  final String? OS;
   @HiveField(2)
-  final String? modelName;
+  final String? model;
   @HiveField(3)
-  final String? localizedModel;
+  final String? modelName;
   @HiveField(4)
-  final String? platform;
+  final String? localizedModel;
 
   /// 생성자
   DeviceInfoData({
-    this.type,
+    this.device,
+    this.OS,
     this.model,
     this.modelName,
     this.localizedModel,
-    this.platform,
   });
 
   /// JSON으로 변환하는 메서드 추가
   Map<String, dynamic> toJson() {
     return {
-      'type': type,
+      'device': device,
+      'OS': OS,
       'model': model,
       'modelName': modelName,
       'localizedModel': localizedModel,
-      'platform': platform,
     };
   }
 
   /// JSON에서 객체로 변환하는 메서드도 추가 가능
   factory DeviceInfoData.fromJson(Map<String, dynamic> json) {
     return DeviceInfoData(
-      type: json['type'],
+      device: json['device'],
+      OS: json['OS'],
       model: json['model'],
       modelName: json['modelName'],
       localizedModel: json['localizedModel'],
-      platform: json['platform'],
     );
   }
 }

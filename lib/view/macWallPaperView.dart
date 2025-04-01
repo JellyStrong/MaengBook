@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:maengBook/view/weatherDiaryView.dart';
 import 'package:provider/provider.dart';
-import 'package:maengBook/provider/macWallPaperViewProvider.dart';
+import 'package:maengBook/provider/macWallPaperProvider.dart';
 import 'package:maengBook/util/util.dart';
 import 'package:maengBook/util/commonWidget.dart';
 import 'calculatorView.dart';
@@ -37,11 +38,20 @@ class MacWallPaperView extends StatelessWidget {
                             IconWidget().myApp(
                               context: context,
                               child: calculatorView(context),
-                              iconName: '계산기',
                               iconPath: 'assets/image/icon/calculator.png',
+                              iconName: '계산기',
                               maxWidth: 233,
                               maxHeight: 323,
                               backGround: Colors.blue,
+                            ),
+
+                            IconWidget().myApp(
+                              context: context,
+                              child: weatherDiaryView(),
+                              iconPath: 'assets/image/icon/weatherDiary.jpeg',
+                              iconName: '날씨 일기',
+                              maxWidth: 600,
+                              maxHeight: 600,
                             ),
                             InkWell(
                               child: Text('test'),
@@ -119,6 +129,103 @@ class MacWallPaperView extends StatelessWidget {
             ],
           ),
         ),
+      ),
+    );
+  }
+
+  Widget myApp({
+    required BuildContext context,
+    required Widget child,
+    required String iconPath,
+    required String iconName,
+    required double maxWidth,
+    required double maxHeight,
+    String? device,
+    String? os,
+    String? type,
+    List<Widget>? entry,
+    Color? backGround,
+  }) {
+    print('iconPath:$iconPath, iconName:$iconName, maxWidth:$maxWidth, maxHeight:$maxHeight ');
+    return Container(
+      margin: const EdgeInsets.all(12),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.center,
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: [
+          InkWell(
+            onTap: () {
+              OverlayEntry? overlayEntry;
+              if (!model.getEntries.containsKey(iconName)) {
+                Offset randomOffset = WindowControls().getLayoutRandomOffset(
+                  context,
+                  iconName,
+                  maxWidth,
+                  maxHeight,
+                );
+                overlayEntry = OverlayEntry(builder: (BuildContext context) {
+                  return Positioned(
+                    left: randomOffset.dx,
+                    top: randomOffset.dy,
+                    child: Material(
+                      color: Colors.transparent, //뒷배경투명하게
+                      child: Container(
+                        /// 앱 틀
+                        constraints: BoxConstraints(maxWidth: maxWidth, maxHeight: maxHeight),
+                        decoration: BoxDecoration(
+                            border: Border.all(width: 1, color: Colors.grey),
+                            borderRadius: const BorderRadius.all(
+                              Radius.circular(13),
+                            ),
+                            boxShadow: [
+                              BoxShadow(
+                                color: Colors.black.withAlpha(100),
+                                blurRadius: 20.0,
+                                spreadRadius: 5.0,
+                                offset: const Offset(0, 10),
+                              ),
+                            ],
+                            color: backGround ??= Colors.white),
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            // 공통 윈도우 컨트롤
+                            WindowControlsBtn().buttons(overlayEntry!, iconName),
+                            // 컨텐츠
+                            child,
+                          ],
+                        ),
+                      ),
+                    ),
+                  );
+                });
+                model.addEntry(iconName, overlayEntry);
+                Overlay.of(context).insert(overlayEntry);
+              }
+            },
+            // 앱 아이콘 박스
+            child: SizedBox(
+              width: 70,
+              height: 70,
+              child: Image.asset(
+                iconPath,
+                fit: BoxFit.contain,
+              ),
+            ),
+          ),
+          const SizedBox(height: 5),
+          // 앱 아이콘 제목
+          Text(
+            iconName,
+            style: TextStyle(fontSize: 12, fontWeight: FontWeight.w500, color: Colors.white, shadows: [
+              Shadow(
+                color: Colors.black.withAlpha(100),
+                blurRadius: 2.0,
+                offset: const Offset(0, 2),
+              )
+            ]),
+          ),
+        ],
       ),
     );
   }
