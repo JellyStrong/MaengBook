@@ -1,5 +1,9 @@
-import 'package:flutter/material.dart';
+import 'dart:convert';
 
+import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+
+/// WeatherNewsModel
 class WeatherNewsModel {
   final String baseDate; //
   final String baseTime; //
@@ -18,7 +22,6 @@ class WeatherNewsModel {
     required this.obsrValue,
   });
 
-  //
   /// JSON으로 변환하는 메서드 추가
   Map<String, dynamic> toJson() {
     return {
@@ -31,7 +34,7 @@ class WeatherNewsModel {
     };
   }
 
-// JSON 데이터를 Dart 객체로 변환
+  /// JSON 데이터를 Dart 객체로 변환
   factory WeatherNewsModel.fromJson(Map<String, dynamic> json) {
     return WeatherNewsModel(
       baseDate: json['baseDate'],
@@ -44,7 +47,35 @@ class WeatherNewsModel {
   }
 }
 
-// 응답 본문 (body)
+Future<Map<String, dynamic>> getTest({required String url, required Map<String, dynamic> body}) async {
+  String makeBody = '';
+  for (var entry in body.entries) {
+    makeBody += '${entry.key}=${entry.value}';
+    makeBody += '&';
+  }
+  print('makeBody = $makeBody');
+  final response = await http.get(Uri.parse(url + makeBody));
+
+  if (response.statusCode == 200) {
+    print('response1 : ${jsonDecode(response.body)}');
+    print('response2 : ${response.body.runtimeType}');
+    print('response3 : ${jsonDecode(response.body).runtimeType}');
+    var ddd = jsonDecode(response.body);
+    print('TEST: ${jsonDecode(response.body)}');
+
+    var bbb = WeatherApiResponse.fromJson(ddd).toJson();
+    print(' 22222 ${bbb['header']}');
+    print(' 33333 ${bbb['body']}');
+    print(' 44444 ${bbb['pageNo']}');
+    print(' 55555 ${bbb['numOfRows']}');
+    print(' 66666 ${bbb['totalCount']}');
+  }else{
+    print(response.body);
+  }
+  return jsonDecode(response.body);
+}
+
+/// 응답 본문 (body)
 class WeatherResponseBody {
   final String dataType;
   final List<WeatherNewsModel> items;
@@ -56,11 +87,8 @@ class WeatherResponseBody {
 
   // JSON 데이터를 Dart 객체로 변환
   factory WeatherResponseBody.fromJson(Map<String, dynamic> json) {
-    print(json);
     var itemsJson = json['items']['item'] as List;
-    print('dataTypeee : ${json['dataType']}');
     List<WeatherNewsModel> weatherItems = itemsJson.map((item) => WeatherNewsModel.fromJson(item)).toList();
-    print('dataTypeee : ${json['dataType']}');
 
     return WeatherResponseBody(
       dataType: json['dataType'],
@@ -69,7 +97,7 @@ class WeatherResponseBody {
   }
 }
 
-// 응답 헤더 (header)
+/// 응답 헤더 (header)
 class WeatherHeader {
   final String resultCode;
   final String resultMsg;
@@ -81,7 +109,6 @@ class WeatherHeader {
 
   // JSON 데이터를 Dart 객체로 변환
   factory WeatherHeader.fromJson(Map<String, dynamic> json) {
-    print('@@@@@@@ ${json}');
     return WeatherHeader(
       resultCode: json['resultCode'],
       resultMsg: json['resultMsg'],
@@ -89,7 +116,7 @@ class WeatherHeader {
   }
 }
 
-// 전체 응답 (response)
+/// 전체 응답 (response)
 class WeatherApiResponse {
   final WeatherHeader header;
   final WeatherResponseBody body;
@@ -110,28 +137,16 @@ class WeatherApiResponse {
     return {
       'header': header,
       'body': body,
-      'body': body,
       'pageNo': pageNo,
       'numOfRows': numOfRows,
       'totalCount': totalCount,
     };
   }
 
-
-  // JSON 데이터를 Dart 객체로 변환
+  /// JSON 데이터를 Dart 객체로 변환
   factory WeatherApiResponse.fromJson(Map<String, dynamic> json) {
-    print('1111------');
-    // for (var entry in json.entries) {
-    //   print('Key: ${entry.key}, Value: ${entry.value}');
-    //   print('>>>>>>HEADER ${entry.value['header']}'); // result code 00
-    //   print('>>>>>>BODY ${entry.value['body']}'); // data type totalCount
-    //   print('>>>>>>ITEMS ${entry.value['body']['items']}'); // item
-    //   print('>>>>>>ITEM ${entry.value['body']['items']['item']}');
-    // }
-    print('2222------');
-    print('>>> ${json.values.length}');
-    print('33333------');
-    print('------');
+    print('111111');
+    print(json);
     return WeatherApiResponse(
       header: WeatherHeader.fromJson(json['response']['header']),
       body: WeatherResponseBody.fromJson(json['response']['body']),
