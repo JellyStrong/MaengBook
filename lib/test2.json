@@ -1,0 +1,2992 @@
+[
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 0300,
+    fcstValue: 14,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 0300,
+    fcstValue: -1.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 0300,
+    fcstValue: 4.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 0300,
+    fcstValue: 158,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 0300,
+    fcstValue: 4.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 0300,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 0300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 0300,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 0300,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 0300,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 0300,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 0300,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 0400,
+    fcstValue: 14,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 0400,
+    fcstValue: -1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 0400,
+    fcstValue: 3.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 0400,
+    fcstValue: 163,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 0400,
+    fcstValue: 3.8,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 0400,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 0400,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 0400,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 0400,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 0400,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 0400,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 0400,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 0500,
+    fcstValue: 14,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 0500,
+    fcstValue: -1.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 0500,
+    fcstValue: 4.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 0500,
+    fcstValue: 160,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 0500,
+    fcstValue: 5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 0500,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 0500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 0500,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 0500,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 0500,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 0500,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 0500,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: 14,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: -1.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: 3.8,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: 155,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: 4.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMN,
+    fcstDate: 20250417,
+    fcstTime: 0600,
+    fcstValue: 13.0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 0700,
+    fcstValue: 14,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 0700,
+    fcstValue: -1.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 0700,
+    fcstValue: 3.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 0700,
+    fcstValue: 160,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 0700,
+    fcstValue: 3.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 0700,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 0700,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 0700,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 0700,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 0700,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 0700,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 0700,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 0800,
+    fcstValue: 16,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 0800,
+    fcstValue: -0.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 0800,
+    fcstValue: 3.8,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 0800,
+    fcstValue: 169,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 0800,
+    fcstValue: 3.8,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 0800,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 0800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 0800,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 0800,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 0800,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 0800,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 0800,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 0900,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 0900,
+    fcstValue: -0.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 0900,
+    fcstValue: 5.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 0900,
+    fcstValue: 177,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 0900,
+    fcstValue: 5.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 0900,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 0900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 0900,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 0900,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 0900,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 0900,
+    fcstValue: 80,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 0900,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 1000,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 1000,
+    fcstValue: -0.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 1000,
+    fcstValue: 5.8,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 1000,
+    fcstValue: 177,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 1000,
+    fcstValue: 5.9,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 1000,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 1000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 1000,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 1000,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 1000,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 1000,
+    fcstValue: 75,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 1000,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 1100,
+    fcstValue: 19,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 1100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 1100,
+    fcstValue: 5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 1100,
+    fcstValue: 180,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 1100,
+    fcstValue: 5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 1100,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 1100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 1100,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 1100,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 1100,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 1100,
+    fcstValue: 70,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 1100,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 1200,
+    fcstValue: 21,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 1200,
+    fcstValue: 0.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 1200,
+    fcstValue: 5.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 1200,
+    fcstValue: 183,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 1200,
+    fcstValue: 5.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 1200,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 1200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 1200,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 1200,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 1200,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 1200,
+    fcstValue: 70,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 1200,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 1300,
+    fcstValue: 21,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 1300,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 1300,
+    fcstValue: 5.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 1300,
+    fcstValue: 191,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 1300,
+    fcstValue: 5.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 1300,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 1300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 1300,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 1300,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 1300,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 1300,
+    fcstValue: 65,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 1300,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 1400,
+    fcstValue: 22,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 1400,
+    fcstValue: 1.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 1400,
+    fcstValue: 5.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 1400,
+    fcstValue: 196,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 1400,
+    fcstValue: 5.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 1400,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 1400,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 1400,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 1400,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 1400,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 1400,
+    fcstValue: 55,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 1400,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: 22,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: 2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: 4.9,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: 202,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: 5.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: 55,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMX,
+    fcstDate: 20250417,
+    fcstTime: 1500,
+    fcstValue: 24.0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 1600,
+    fcstValue: 21,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 1600,
+    fcstValue: 2.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 1600,
+    fcstValue: 4.9,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 1600,
+    fcstValue: 203,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 1600,
+    fcstValue: 5.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 1600,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 1600,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 1600,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 1600,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 1600,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 1600,
+    fcstValue: 55,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 1600,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 1700,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 1700,
+    fcstValue: 1.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 1700,
+    fcstValue: 4.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 1700,
+    fcstValue: 193,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 1700,
+    fcstValue: 4.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 1700,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 1700,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 1700,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 1700,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 1700,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 1700,
+    fcstValue: 60,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 1700,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 1800,
+    fcstValue: 19,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 1800,
+    fcstValue: 2.8,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 1800,
+    fcstValue: 3.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 1800,
+    fcstValue: 219,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 1800,
+    fcstValue: 4.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 1800,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 1800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 1800,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 1800,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 1800,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 1800,
+    fcstValue: 60,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 1800,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 1900,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 1900,
+    fcstValue: 3.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 1900,
+    fcstValue: 3.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 1900,
+    fcstValue: 223,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 1900,
+    fcstValue: 4.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 1900,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 1900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 1900,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 1900,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 1900,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 1900,
+    fcstValue: 65,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 1900,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 2000,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 2000,
+    fcstValue: 1.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 2000,
+    fcstValue: 5.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 2000,
+    fcstValue: 198,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 2000,
+    fcstValue: 5.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 2000,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 2000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 2000,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 2000,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 2000,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 2000,
+    fcstValue: 75,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 2000,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 2100,
+    fcstValue: 16,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 2100,
+    fcstValue: 1.9,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 2100,
+    fcstValue: 5.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 2100,
+    fcstValue: 198,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 2100,
+    fcstValue: 5.9,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 2100,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 2100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 2100,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 2100,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 2100,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 2100,
+    fcstValue: 75,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 2100,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 2200,
+    fcstValue: 16,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 2200,
+    fcstValue: -1.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 2200,
+    fcstValue: 3.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 2200,
+    fcstValue: 161,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 2200,
+    fcstValue: 3.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 2200,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 2200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 2200,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 2200,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 2200,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 2200,
+    fcstValue: 80,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 2200,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250417,
+    fcstTime: 2300,
+    fcstValue: 16,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250417,
+    fcstTime: 2300,
+    fcstValue: 2.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250417,
+    fcstTime: 2300,
+    fcstValue: 1.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250417,
+    fcstTime: 2300,
+    fcstValue: 240,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250417,
+    fcstTime: 2300,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250417,
+    fcstTime: 2300,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250417,
+    fcstTime: 2300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250417,
+    fcstTime: 2300,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250417,
+    fcstTime: 2300,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250417,
+    fcstTime: 2300,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250417,
+    fcstTime: 2300,
+    fcstValue: 80,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250417,
+    fcstTime: 2300,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250418,
+    fcstTime: 0000,
+    fcstValue: 15,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250418,
+    fcstTime: 0000,
+    fcstValue: -1.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250418,
+    fcstTime: 0000,
+    fcstValue: 3.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250418,
+    fcstTime: 0000,
+    fcstValue: 153,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250418,
+    fcstTime: 0000,
+    fcstValue: 4.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250418,
+    fcstTime: 0000,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250418,
+    fcstTime: 0000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250418,
+    fcstTime: 0000,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250418,
+    fcstTime: 0000,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250418,
+    fcstTime: 0000,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250418,
+    fcstTime: 0000,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250418,
+    fcstTime: 0000,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250418,
+    fcstTime: 0100,
+    fcstValue: 15,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250418,
+    fcstTime: 0100,
+    fcstValue: -1.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250418,
+    fcstTime: 0100,
+    fcstValue: 4.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250418,
+    fcstTime: 0100,
+    fcstValue: 162,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250418,
+    fcstTime: 0100,
+    fcstValue: 4.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250418,
+    fcstTime: 0100,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250418,
+    fcstTime: 0100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250418,
+    fcstTime: 0100,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250418,
+    fcstTime: 0100,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250418,
+    fcstTime: 0100,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250418,
+    fcstTime: 0100,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250418,
+    fcstTime: 0100,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250418,
+    fcstTime: 0200,
+    fcstValue: 15,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250418,
+    fcstTime: 0200,
+    fcstValue: -2.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250418,
+    fcstTime: 0200,
+    fcstValue: 2.8,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250418,
+    fcstTime: 0200,
+    fcstValue: 135,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250418,
+    fcstTime: 0200,
+    fcstValue: 3.9,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250418,
+    fcstTime: 0200,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250418,
+    fcstTime: 0200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250418,
+    fcstTime: 0200,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250418,
+    fcstTime: 0200,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PCP,
+    fcstDate: 20250418,
+    fcstTime: 0200,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: REH,
+    fcstDate: 20250418,
+    fcstTime: 0200,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SNO,
+    fcstDate: 20250418,
+    fcstTime: 0200,
+    fcstValue: 적설없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: TMP,
+    fcstDate: 20250418,
+    fcstTime: 0300,
+    fcstValue: 15,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: UUU,
+    fcstDate: 20250418,
+    fcstTime: 0300,
+    fcstValue: -1.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VVV,
+    fcstDate: 20250418,
+    fcstTime: 0300,
+    fcstValue: 3.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: VEC,
+    fcstDate: 20250418,
+    fcstTime: 0300,
+    fcstValue: 156,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WSD,
+    fcstDate: 20250418,
+    fcstTime: 0300,
+    fcstValue: 3.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: SKY,
+    fcstDate: 20250418,
+    fcstTime: 0300,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: PTY,
+    fcstDate: 20250418,
+    fcstTime: 0300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: POP,
+    fcstDate: 20250418,
+    fcstTime: 0300,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250417,
+    baseTime: 0200,
+    category: WAV,
+    fcstDate: 20250418,
+    fcstTime: 0300,
+    fcstValue: -999,
+    nx: 59,
+    ny: 124
+  }
+]

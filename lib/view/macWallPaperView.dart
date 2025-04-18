@@ -37,7 +37,7 @@ class MacWallPaperView extends StatelessWidget {
                           children: [
                             IconWidget().myApp(
                               context: context,
-                              child: calculatorView(context),
+                              child: const Calculatorview(),
                               iconPath: 'assets/image/icon/calculator.png',
                               iconName: '계산기',
                               maxWidth: 233,
@@ -45,21 +45,15 @@ class MacWallPaperView extends StatelessWidget {
                               backGround: Colors.blue,
                             ),
 
-                            IconWidget().myApp(
+                             IconWidget().myApp(
                               context: context,
-                              child: weatherNewsView(),
-                              iconPath: 'assets/image/icon/weatherDiary.jpeg',
-                              iconName: '날씨 일기',
-                              maxWidth: 600,
-                              maxHeight: 600,
+                              child: const WeatherNewsView(),
+                              iconPath: 'assets/image/icon/weather.png',
+                              iconName: '날씨',
+                              maxWidth: 500,
+                              maxHeight: 500,
                             ),
-                            InkWell(
-                              child: Text('test'),
-                              onTap: () {
-                                print('onTap');
-                                print('provider.platform : ${provider.platform}');
-                              },
-                            ),
+
                             // IconWidget().myPicture(
                             //   context: context,
                             //   child: imageView('assets/image/icon/test02.png'),

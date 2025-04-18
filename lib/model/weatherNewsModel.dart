@@ -5,12 +5,12 @@ import 'package:http/http.dart' as http;
 
 /// WeatherNewsModel
 class WeatherNewsModel {
-  final String baseDate; //
-  final String baseTime; //
-  final String category; //
-  final int nx; //
-  final int ny; //
-  final String obsrValue; //
+  final String baseDate; // 발표일자
+  final String baseTime; // 발표시각
+  final String category; // 자료구분코드
+  final int nx; // 예보지점 X
+  final int ny; // 예보지점 Y
+  final String obsrValue; // 실황값
 
   /// WeatherNewsModel 생성자
   WeatherNewsModel({
@@ -47,32 +47,28 @@ class WeatherNewsModel {
   }
 }
 
-Future<Map<String, dynamic>> getTest({required String url, required Map<String, dynamic> body}) async {
-  String makeBody = '';
+String getParams({required Map<String, dynamic> body, required String a}) {
+  String params = '';
   for (var entry in body.entries) {
-    makeBody += '${entry.key}=${entry.value}';
-    makeBody += '&';
+    params += '${entry.key}=${entry.value}';
+    params += '&';
   }
-  print('makeBody = $makeBody');
-  final response = await http.get(Uri.parse(url + makeBody));
+  print('params ${params} url: $a');
+  return params;
+}
 
+Future<Map<String, dynamic>> getHttp({required String url, required Map<String, dynamic> body}) async {
+  final response = await http.get(Uri.parse(url + getParams(body: body,a: url)));
+  print('get::: ${http.get(Uri.parse(url + getParams(body: body, a: url)))}');
   if (response.statusCode == 200) {
-    print('response1 : ${jsonDecode(response.body)}');
-    print('response2 : ${response.body.runtimeType}');
-    print('response3 : ${jsonDecode(response.body).runtimeType}');
-    var ddd = jsonDecode(response.body);
-    print('TEST: ${jsonDecode(response.body)}');
-
-    var bbb = WeatherApiResponse.fromJson(ddd).toJson();
-    print(' 22222 ${bbb['header']}');
-    print(' 33333 ${bbb['body']}');
-    print(' 44444 ${bbb['pageNo']}');
-    print(' 55555 ${bbb['numOfRows']}');
-    print(' 66666 ${bbb['totalCount']}');
-  }else{
-    print(response.body);
+    // print(response.body);
+    print('>>>>>>성공 ${url + getParams(body: body ,a :url)}');
+    return jsonDecode(response.body);
+  } else {
+    // print(response.body);
+    print('>>>>>>실패 ${url + getParams(body: body, a: url)}');
+    return jsonDecode(response.body);
   }
-  return jsonDecode(response.body);
 }
 
 /// 응답 본문 (body)

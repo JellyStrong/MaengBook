@@ -21,8 +21,7 @@ void main() async {
   if (Hive.isBoxOpen('deviceInfoBox') == false) {
     await Hive.openBox<DeviceInfoData>('deviceInfoBox');
   }
-  /// 날씨 정보 불러오기
-  WeatherNewsProvider().fetchData();
+
   runApp(const RunApp());
 }
 
@@ -69,6 +68,9 @@ class _RuntAppState extends State<RunApp> {
         ),
         ChangeNotifierProvider(
           create: (BuildContext context) => MacWallPaperViewProvider(),
+        ),
+        ChangeNotifierProvider(
+          create: (BuildContext context) => WeatherNewsProvider(),
         ),
       ],
       child: const MaterialApp(

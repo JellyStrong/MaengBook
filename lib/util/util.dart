@@ -2,6 +2,7 @@ import 'package:device_info_plus/device_info_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:intl/intl.dart';
+import 'package:maengBook/provider/weatherNewsProvider.dart';
 import 'package:provider/provider.dart';
 import 'package:maengBook/provider/calculatorProvider.dart';
 import 'dart:math';
@@ -31,12 +32,27 @@ const int maximizeKey = 102;
 Model model = Model();
 
 class Util {
-  String nowDate() {
+  String nowDateyyyyMMdd() {
     return DateFormat('yyyyMMdd').format(DateTime.now());
   }
 
   String nowTime() {
     return DateFormat('HHmm').format(DateTime.now());
+  }
+
+  String nowTimemm() {
+    return DateFormat('mm').format(DateTime.now());
+  }
+
+  String nowTimeHHmm() {
+    return DateFormat('HHmm').format(DateTime.now());
+  }
+
+  String nowTimeHH() {
+    return DateFormat('HH').format(DateTime.now());
+  }
+  String nowFullDateTime(){
+    return DateTime.now().toString();
   }
 }
 
