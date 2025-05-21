@@ -1,0 +1,6722 @@
+[
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250514,
+    fcstTime: 2200,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250514,
+    fcstTime: 2200,
+    fcstValue: 188,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250514,
+    fcstTime: 2200,
+    fcstValue: 2.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250514,
+    fcstTime: 2200,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250514,
+    fcstTime: 2200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250514,
+    fcstTime: 2200,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250514,
+    fcstTime: 2200,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250514,
+    fcstTime: 2200,
+    fcstValue: 65,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250514,
+    fcstTime: 2300,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250514,
+    fcstTime: 2300,
+    fcstValue: 176,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250514,
+    fcstTime: 2300,
+    fcstValue: 2.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250514,
+    fcstTime: 2300,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250514,
+    fcstTime: 2300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250514,
+    fcstTime: 2300,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250514,
+    fcstTime: 2300,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250514,
+    fcstTime: 2300,
+    fcstValue: 65,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 0000,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 0000,
+    fcstValue: 165,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 0000,
+    fcstValue: 2.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 0000,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 0000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 0000,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 0000,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 0000,
+    fcstValue: 65,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 0100,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 0100,
+    fcstValue: 172,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 0100,
+    fcstValue: 2.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 0100,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 0100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 0100,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 0100,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 0100,
+    fcstValue: 70,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 0200,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 0200,
+    fcstValue: 166,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 0200,
+    fcstValue: 2.8,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 0200,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 0200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 0200,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 0200,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 0200,
+    fcstValue: 75,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 0300,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 0300,
+    fcstValue: 164,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 0300,
+    fcstValue: 2.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 0300,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 0300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 0300,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 0300,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 0300,
+    fcstValue: 80,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 0400,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 0400,
+    fcstValue: 169,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 0400,
+    fcstValue: 2.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 0400,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 0400,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 0400,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 0400,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 0400,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 0500,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 0500,
+    fcstValue: 177,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 0500,
+    fcstValue: 2.9,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 0500,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 0500,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 0500,
+    fcstValue: 87,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 0500,
+    fcstValue: 4.0mm,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 0500,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 0600,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 0600,
+    fcstValue: 188,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 0600,
+    fcstValue: 2.9,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 0600,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 0600,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 0600,
+    fcstValue: 60,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 0600,
+    fcstValue: 2.0mm,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 0600,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMN,
+    fcstDate: 20250515,
+    fcstTime: 0600,
+    fcstValue: 17.0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 0700,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 0700,
+    fcstValue: 195,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 0700,
+    fcstValue: 4.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 0700,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 0700,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 0700,
+    fcstValue: 60,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 0700,
+    fcstValue: 1.0mm,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 0700,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 0800,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 0800,
+    fcstValue: 207,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 0800,
+    fcstValue: 3.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 0800,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 0800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 0800,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 0800,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 0800,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 0900,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 0900,
+    fcstValue: 219,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 0900,
+    fcstValue: 2.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 0900,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 0900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 0900,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 0900,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 0900,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 1000,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 1000,
+    fcstValue: 216,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 1000,
+    fcstValue: 2.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 1000,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 1000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 1000,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 1000,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 1000,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 1100,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 1100,
+    fcstValue: 226,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 1100,
+    fcstValue: 2.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 1100,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 1100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 1100,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 1100,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 1100,
+    fcstValue: 95,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 1200,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 1200,
+    fcstValue: 229,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 1200,
+    fcstValue: 2.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 1200,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 1200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 1200,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 1200,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 1200,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 1300,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 1300,
+    fcstValue: 233,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 1300,
+    fcstValue: 2.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 1300,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 1300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 1300,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 1300,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 1300,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 1400,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 1400,
+    fcstValue: 235,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 1400,
+    fcstValue: 2.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 1400,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 1400,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 1400,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 1400,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 1400,
+    fcstValue: 95,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 1500,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 1500,
+    fcstValue: 233,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 1500,
+    fcstValue: 2.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 1500,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 1500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 1500,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 1500,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 1500,
+    fcstValue: 95,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMX,
+    fcstDate: 20250515,
+    fcstTime: 1500,
+    fcstValue: 19.0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 1600,
+    fcstValue: 19,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 1600,
+    fcstValue: 223,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 1600,
+    fcstValue: 2.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 1600,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 1600,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 1600,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 1600,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 1600,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 1700,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 1700,
+    fcstValue: 215,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 1700,
+    fcstValue: 1.9,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 1700,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 1700,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 1700,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 1700,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 1700,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 1800,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 1800,
+    fcstValue: 220,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 1800,
+    fcstValue: 1.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 1800,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 1800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 1800,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 1800,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 1800,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 1900,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 1900,
+    fcstValue: 221,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 1900,
+    fcstValue: 1.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 1900,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 1900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 1900,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 1900,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 1900,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 2000,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 2000,
+    fcstValue: 225,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 2000,
+    fcstValue: 1.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 2000,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 2000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 2000,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 2000,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 2000,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 2100,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 2100,
+    fcstValue: 214,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 2100,
+    fcstValue: 1.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 2100,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 2100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 2100,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 2100,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 2100,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 2200,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 2200,
+    fcstValue: 180,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 2200,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 2200,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 2200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 2200,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 2200,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 2200,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250515,
+    fcstTime: 2300,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250515,
+    fcstTime: 2300,
+    fcstValue: 180,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250515,
+    fcstTime: 2300,
+    fcstValue: 0.8,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250515,
+    fcstTime: 2300,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250515,
+    fcstTime: 2300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250515,
+    fcstTime: 2300,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250515,
+    fcstTime: 2300,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250515,
+    fcstTime: 2300,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 0000,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 0000,
+    fcstValue: 162,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 0000,
+    fcstValue: 0.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 0000,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 0000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 0000,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 0000,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 0000,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 0100,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 0100,
+    fcstValue: 162,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 0100,
+    fcstValue: 0.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 0100,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 0100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 0100,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 0100,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 0100,
+    fcstValue: 95,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 0200,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 0200,
+    fcstValue: 135,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 0200,
+    fcstValue: 0.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 0200,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 0200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 0200,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 0200,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 0200,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 0300,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 0300,
+    fcstValue: 101,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 0300,
+    fcstValue: 0.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 0300,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 0300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 0300,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 0300,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 0300,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 0400,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 0400,
+    fcstValue: 97,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 0400,
+    fcstValue: 0.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 0400,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 0400,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 0400,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 0400,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 0400,
+    fcstValue: 95,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 0500,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 0500,
+    fcstValue: 103,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 0500,
+    fcstValue: 0.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 0500,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 0500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 0500,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 0500,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 0500,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 0600,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 0600,
+    fcstValue: 117,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 0600,
+    fcstValue: 0.9,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 0600,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 0600,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 0600,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 0600,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 0600,
+    fcstValue: 95,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMN,
+    fcstDate: 20250516,
+    fcstTime: 0600,
+    fcstValue: 16.0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 0700,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 0700,
+    fcstValue: 108,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 0700,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 0700,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 0700,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 0700,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 0700,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 0700,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 0800,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 0800,
+    fcstValue: 117,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 0800,
+    fcstValue: 1.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 0800,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 0800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 0800,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 0800,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 0800,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 0900,
+    fcstValue: 19,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 0900,
+    fcstValue: 127,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 0900,
+    fcstValue: 1.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 0900,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 0900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 0900,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 0900,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 0900,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 1000,
+    fcstValue: 19,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 1000,
+    fcstValue: 145,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 1000,
+    fcstValue: 1.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 1000,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 1000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 1000,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 1000,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 1000,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 1100,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 1100,
+    fcstValue: 161,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 1100,
+    fcstValue: 2.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 1100,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 1100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 1100,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 1100,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 1100,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 1200,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 1200,
+    fcstValue: 174,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 1200,
+    fcstValue: 2.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 1200,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 1200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 1200,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 1200,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 1200,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 1300,
+    fcstValue: 21,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 1300,
+    fcstValue: 175,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 1300,
+    fcstValue: 2.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 1300,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 1300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 1300,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 1300,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 1300,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 1400,
+    fcstValue: 21,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 1400,
+    fcstValue: 175,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 1400,
+    fcstValue: 1.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 1400,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 1400,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 1400,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 1400,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 1400,
+    fcstValue: 95,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 1500,
+    fcstValue: 21,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 1500,
+    fcstValue: 184,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 1500,
+    fcstValue: 2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 1500,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 1500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 1500,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 1500,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 1500,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMX,
+    fcstDate: 20250516,
+    fcstTime: 1500,
+    fcstValue: 24.0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 1600,
+    fcstValue: 21,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 1600,
+    fcstValue: 176,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 1600,
+    fcstValue: 1.9,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 1600,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 1600,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 1600,
+    fcstValue: 60,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 1600,
+    fcstValue: 5.0mm,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 1600,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 1700,
+    fcstValue: 21,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 1700,
+    fcstValue: 166,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 1700,
+    fcstValue: 1.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 1700,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 1700,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 1700,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 1700,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 1700,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 1800,
+    fcstValue: 21,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 1800,
+    fcstValue: 148,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 1800,
+    fcstValue: 1.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 1800,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 1800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 1800,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 1800,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 1800,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 1900,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 1900,
+    fcstValue: 119,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 1900,
+    fcstValue: 1.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 1900,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 1900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 1900,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 1900,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 1900,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 2000,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 2000,
+    fcstValue: 103,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 2000,
+    fcstValue: 0.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 2000,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 2000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 2000,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 2000,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 2000,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 2100,
+    fcstValue: 19,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 2100,
+    fcstValue: 92,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 2100,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 2100,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 2100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 2100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 2100,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 2100,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 2200,
+    fcstValue: 19,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 2200,
+    fcstValue: 101,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 2200,
+    fcstValue: 1.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 2200,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 2200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 2200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 2200,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 2200,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250516,
+    fcstTime: 2300,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250516,
+    fcstTime: 2300,
+    fcstValue: 96,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250516,
+    fcstTime: 2300,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250516,
+    fcstTime: 2300,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250516,
+    fcstTime: 2300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250516,
+    fcstTime: 2300,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250516,
+    fcstTime: 2300,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250516,
+    fcstTime: 2300,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 0000,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 0000,
+    fcstValue: 103,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 0000,
+    fcstValue: 0.9,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 0000,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 0000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 0000,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 0000,
+    fcstValue: 강수없음,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 0000,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 0100,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 0100,
+    fcstValue: 103,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 0100,
+    fcstValue: 0.8,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 0100,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 0100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 0100,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 0100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 0100,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 0200,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 0200,
+    fcstValue: 96,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 0200,
+    fcstValue: 0.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 0200,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 0200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 0200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 0200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 0200,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 0300,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 0300,
+    fcstValue: 94,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 0300,
+    fcstValue: 0.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 0300,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 0300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 0300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 0300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 0300,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 0400,
+    fcstValue: 16,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 0400,
+    fcstValue: 72,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 0400,
+    fcstValue: 0.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 0400,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 0400,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 0400,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 0400,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 0400,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 0500,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 0500,
+    fcstValue: 65,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 0500,
+    fcstValue: 1.2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 0500,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 0500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 0500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 0500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 0500,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 0600,
+    fcstValue: 16,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 0600,
+    fcstValue: 69,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 0600,
+    fcstValue: 1.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 0600,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 0600,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 0600,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 0600,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 0600,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMN,
+    fcstDate: 20250517,
+    fcstTime: 0600,
+    fcstValue: 16.0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 0700,
+    fcstValue: 18,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 0700,
+    fcstValue: 41,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 0700,
+    fcstValue: 1.8,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 0700,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 0700,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 0700,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 0700,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 0700,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 0800,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 0800,
+    fcstValue: 37,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 0800,
+    fcstValue: 2.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 0800,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 0800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 0800,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 0800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 0800,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 0900,
+    fcstValue: 21,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 0900,
+    fcstValue: 76,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 0900,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 0900,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 0900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 0900,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 0900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 0900,
+    fcstValue: 80,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 1000,
+    fcstValue: 22,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 1000,
+    fcstValue: 110,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 1000,
+    fcstValue: 3.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 1000,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 1000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 1000,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 1000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 1000,
+    fcstValue: 75,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 1100,
+    fcstValue: 23,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 1100,
+    fcstValue: 131,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 1100,
+    fcstValue: 3.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 1100,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 1100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 1100,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 1100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 1100,
+    fcstValue: 70,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 1200,
+    fcstValue: 23,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 1200,
+    fcstValue: 180,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 1200,
+    fcstValue: 3.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 1200,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 1200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 1200,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 1200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 1200,
+    fcstValue: 65,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 1300,
+    fcstValue: 24,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 1300,
+    fcstValue: 206,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 1300,
+    fcstValue: 3.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 1300,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 1300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 1300,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 1300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 1300,
+    fcstValue: 65,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 1400,
+    fcstValue: 25,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 1400,
+    fcstValue: 220,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 1400,
+    fcstValue: 4.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 1400,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 1400,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 1400,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 1400,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 1400,
+    fcstValue: 60,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 1500,
+    fcstValue: 25,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 1500,
+    fcstValue: 218,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 1500,
+    fcstValue: 5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 1500,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 1500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 1500,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 1500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 1500,
+    fcstValue: 60,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMX,
+    fcstDate: 20250517,
+    fcstTime: 1500,
+    fcstValue: 25.0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 1600,
+    fcstValue: 25,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 1600,
+    fcstValue: 217,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 1600,
+    fcstValue: 5.4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 1600,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 1600,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 1600,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 1600,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 1600,
+    fcstValue: 60,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 1700,
+    fcstValue: 23,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 1700,
+    fcstValue: 231,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 1700,
+    fcstValue: 5.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 1700,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 1700,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 1700,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 1700,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 1700,
+    fcstValue: 65,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 1800,
+    fcstValue: 21,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 1800,
+    fcstValue: 249,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 1800,
+    fcstValue: 4.3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 1800,
+    fcstValue: 4,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 1800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 1800,
+    fcstValue: 30,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 1800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 1800,
+    fcstValue: 70,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 1900,
+    fcstValue: 19,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 1900,
+    fcstValue: 260,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 1900,
+    fcstValue: 3.5,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 1900,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 1900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 1900,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 1900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 1900,
+    fcstValue: 75,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 2000,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 2000,
+    fcstValue: 241,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 2000,
+    fcstValue: 3.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 2000,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 2000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 2000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 2000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 2000,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 2100,
+    fcstValue: 16,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 2100,
+    fcstValue: 240,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 2100,
+    fcstValue: 3.6,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 2100,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 2100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 2100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 2100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 2100,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 2200,
+    fcstValue: 15,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 2200,
+    fcstValue: 241,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 2200,
+    fcstValue: 3.1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 2200,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 2200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 2200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 2200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 2200,
+    fcstValue: 90,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250517,
+    fcstTime: 2300,
+    fcstValue: 15,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250517,
+    fcstTime: 2300,
+    fcstValue: 231,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250517,
+    fcstTime: 2300,
+    fcstValue: 2.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250517,
+    fcstTime: 2300,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250517,
+    fcstTime: 2300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250517,
+    fcstTime: 2300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250517,
+    fcstTime: 2300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250517,
+    fcstTime: 2300,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250518,
+    fcstTime: 0000,
+    fcstValue: 14,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250518,
+    fcstTime: 0000,
+    fcstValue: 230,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250518,
+    fcstTime: 0000,
+    fcstValue: 2.7,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250518,
+    fcstTime: 0000,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250518,
+    fcstTime: 0000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250518,
+    fcstTime: 0000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250518,
+    fcstTime: 0000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250518,
+    fcstTime: 0000,
+    fcstValue: 80,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250518,
+    fcstTime: 0300,
+    fcstValue: 13,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250518,
+    fcstTime: 0300,
+    fcstValue: 240,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250518,
+    fcstTime: 0300,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250518,
+    fcstTime: 0300,
+    fcstValue: 3,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250518,
+    fcstTime: 0300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250518,
+    fcstTime: 0300,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250518,
+    fcstTime: 0300,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250518,
+    fcstTime: 0300,
+    fcstValue: 80,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250518,
+    fcstTime: 0600,
+    fcstValue: 12,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250518,
+    fcstTime: 0600,
+    fcstValue: 293,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250518,
+    fcstTime: 0600,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250518,
+    fcstTime: 0600,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250518,
+    fcstTime: 0600,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250518,
+    fcstTime: 0600,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250518,
+    fcstTime: 0600,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250518,
+    fcstTime: 0600,
+    fcstValue: 80,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMN,
+    fcstDate: 20250518,
+    fcstTime: 0600,
+    fcstValue: 12.0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250518,
+    fcstTime: 0900,
+    fcstValue: 16,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250518,
+    fcstTime: 0900,
+    fcstValue: 305,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250518,
+    fcstTime: 0900,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250518,
+    fcstTime: 0900,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250518,
+    fcstTime: 0900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250518,
+    fcstTime: 0900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250518,
+    fcstTime: 0900,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250518,
+    fcstTime: 0900,
+    fcstValue: 60,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250518,
+    fcstTime: 1200,
+    fcstValue: 19,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250518,
+    fcstTime: 1200,
+    fcstValue: 301,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250518,
+    fcstTime: 1200,
+    fcstValue: 2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250518,
+    fcstTime: 1200,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250518,
+    fcstTime: 1200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250518,
+    fcstTime: 1200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250518,
+    fcstTime: 1200,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250518,
+    fcstTime: 1200,
+    fcstValue: 40,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250518,
+    fcstTime: 1500,
+    fcstValue: 20,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250518,
+    fcstTime: 1500,
+    fcstValue: 273,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250518,
+    fcstTime: 1500,
+    fcstValue: 2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250518,
+    fcstTime: 1500,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250518,
+    fcstTime: 1500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250518,
+    fcstTime: 1500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250518,
+    fcstTime: 1500,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250518,
+    fcstTime: 1500,
+    fcstValue: 35,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMX,
+    fcstDate: 20250518,
+    fcstTime: 1500,
+    fcstValue: 21.0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250518,
+    fcstTime: 1800,
+    fcstValue: 17,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250518,
+    fcstTime: 1800,
+    fcstValue: 259,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250518,
+    fcstTime: 1800,
+    fcstValue: 2,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250518,
+    fcstTime: 1800,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250518,
+    fcstTime: 1800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250518,
+    fcstTime: 1800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250518,
+    fcstTime: 1800,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250518,
+    fcstTime: 1800,
+    fcstValue: 45,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250518,
+    fcstTime: 2100,
+    fcstValue: 13,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250518,
+    fcstTime: 2100,
+    fcstValue: 243,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250518,
+    fcstTime: 2100,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250518,
+    fcstTime: 2100,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250518,
+    fcstTime: 2100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250518,
+    fcstTime: 2100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250518,
+    fcstTime: 2100,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250518,
+    fcstTime: 2100,
+    fcstValue: 70,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: TMP,
+    fcstDate: 20250519,
+    fcstTime: 0000,
+    fcstValue: 11,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: VEC,
+    fcstDate: 20250519,
+    fcstTime: 0000,
+    fcstValue: 222,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: WSD,
+    fcstDate: 20250519,
+    fcstTime: 0000,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: SKY,
+    fcstDate: 20250519,
+    fcstTime: 0000,
+    fcstValue: 1,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PTY,
+    fcstDate: 20250519,
+    fcstTime: 0000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: POP,
+    fcstDate: 20250519,
+    fcstTime: 0000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: PCP,
+    fcstDate: 20250519,
+    fcstTime: 0000,
+    fcstValue: 0,
+    nx: 59,
+    ny: 124
+  },
+  {
+    baseDate: 20250514,
+    baseTime: 2000,
+    category: REH,
+    fcstDate: 20250519,
+    fcstTime: 0000,
+    fcstValue: 85,
+    nx: 59,
+    ny: 124
+  }
+]

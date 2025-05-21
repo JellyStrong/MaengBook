@@ -1,0 +1,2 @@
+/Users/inyoung/StudioProjects/maengBook/android/app/.cxx/Debug/373g3r51/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/inyoung/StudioProjects/maengBook/android/app/.cxx/Debug/373g3r51/armeabi-v7a/CMakeFiles/rebuild_cache.dir
