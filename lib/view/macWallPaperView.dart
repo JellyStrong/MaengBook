@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:maengBook/view/weatherNewsView.dart';
+import 'package:maengBook/view/weathergifView.dart';
 import 'package:provider/provider.dart';
 import 'package:maengBook/provider/macWallPaperProvider.dart';
 import 'package:maengBook/util/util.dart';
@@ -11,7 +12,7 @@ class MacWallPaperView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-  //  context.read<MacWallPaperViewProvider>().getPlatform();
+    //  context.read<MacWallPaperViewProvider>().getPlatform();
     return Material(
       child: Container(
         decoration: const BoxDecoration(
@@ -45,7 +46,7 @@ class MacWallPaperView extends StatelessWidget {
                               backGround: Colors.blue,
                             ),
 
-                             IconWidget().myApp(
+                            IconWidget().myApp(
                               context: context,
                               child: const WeatherNewsView(),
                               iconPath: 'assets/image/icon/weather.png',
@@ -53,7 +54,14 @@ class MacWallPaperView extends StatelessWidget {
                               maxWidth: 1100,
                               maxHeight: 650,
                             ),
-
+                            IconWidget().myApp(
+                              context: context,
+                              child: const WeathergifView(),
+                              iconPath: 'assets/image/icon/weathergif.png',
+                              iconName: '날씨gif',
+                              maxWidth: 700,
+                              maxHeight: 500,
+                            )
                             // IconWidget().myPicture(
                             //   context: context,
                             //   child: imageView('assets/image/icon/test02.png'),
@@ -140,7 +148,6 @@ class MacWallPaperView extends StatelessWidget {
     List<Widget>? entry,
     Color? backGround,
   }) {
-    print('iconPath:$iconPath, iconName:$iconName, maxWidth:$maxWidth, maxHeight:$maxHeight ');
     return Container(
       margin: const EdgeInsets.all(12),
       child: Column(
